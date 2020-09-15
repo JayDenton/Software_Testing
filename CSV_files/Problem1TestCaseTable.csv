@@ -1,0 +1,11 @@
+1,TRUE,50.0,35.0,TRUE,15,Statement 9 & 10 TFT
+2,TRUE,50.0,35.1,FALSE,15,Statement 9 TFF
+3,TRUE,50.1,35.1,TRUE,10,Statement 9 & 10 TTF
+4,FALSE,50.1,35.1,FALSE,0,Statement 9 FTF
+5,FALSE,50.0,35.0,FALSE,0,Statement 9 FFT
+6,FALSE,50.1,35.0,FALSE,0,Statement 10 FTT
+7,TRUE,50.1,35.0,TRUE,5,Statement 10 TTT
+8,TRUE,0.0,35.0,TRUE,15,speed Extreme value
+9,TRUE,135.0,35.0,TRUE,5,speed Extreme value
+10,TRUE,50.1,0.0,TRUE,5,distance Extreme value
+11,TRUE,50.1,1000.0,TRUE,10,distance Extreme value
